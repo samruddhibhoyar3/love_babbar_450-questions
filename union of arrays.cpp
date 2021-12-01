@@ -12,8 +12,8 @@ class Solution{
         {
             mp[b[i]]++;
         }
-        int ans=mp.size();
-        return ans;
+        int k=mp.size();
+        return k;
         //code here
     }
 };
